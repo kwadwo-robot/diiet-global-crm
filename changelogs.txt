@@ -1,2 +1,3 @@
 The changelogs for the system. Starting from the development phase to its deployment and all updates
 Campaign created from the live server
+Currency added to the system
