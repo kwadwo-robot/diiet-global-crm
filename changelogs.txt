@@ -1,0 +1,1 @@
+The changelogs for the system. Starting from the development phase to its deployment and all updates
